@@ -1,0 +1,10 @@
+torch
+torchvision
+timm
+numpy
+Pillow
+opencv-python
+scikit-image
+tensorboard
+thop
+pytorch-linear-warmup-cosine-annealing-warm-restarts-weight-decay
