@@ -115,6 +115,8 @@ def main():
                         help="k in median + k*1.4826*MAD")
     args = parser.parse_args()
 
+    
+
     depth = _load_depth(args.depth)
     fx, fy, cx, cy = args.intrinsics
     K = np.array([[fx, 0, cx], [0, fy, cy], [0, 0, 1]], dtype=np.float32)
