@@ -59,7 +59,7 @@ We sincerely thank the authors of the following excellent open-source projects, 
 - [Lite-Mono](https://github.com/noahzn/Lite-Mono)
 - [pixel-perfect-depth](https://github.com/gangweix/pixel-perfect-depth) 
 
-Their outstanding work has greatly benefited our research.
+Their outstanding work has greatly benefited our research
 
 
 
